@@ -5,8 +5,12 @@ package sg.edu.rp.c347.p02_holidays;
  */
 
 public class Holiday {
-    private String holiday;
-    public Holiday(String holiday){
-        this.holiday = holiday;
+    private String holidays;
+
+    public Holiday(String holidays){
+        this.holidays = holidays;
+    }
+    public String getHoliday(){
+        return holidays;
     }
 }
