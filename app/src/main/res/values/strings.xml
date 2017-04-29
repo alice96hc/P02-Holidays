@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P02-Holidays</string>
+    <string name="title">Types of public holidays in SG</string>
+    <string name="title_activity_holiday2">holiday2</string>
+    <string name="secular">Secular</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_second_">Second_Activity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
